@@ -1,0 +1,1 @@
+kolkas sukurta tik registracija ir navbar, templates prisijungusiem ir atsijungusiem.

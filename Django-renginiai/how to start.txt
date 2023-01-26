@@ -1,0 +1,11 @@
+open cmd > mysite folder
+
+virtualenv venv
+venv\Scripts\activate.bat
+pip install -r requirements.txt
+cd mysite
+py manage.py makemigrations
+py manage.py migrate
+py manage.py runserver
+
+copy url > paste in browser
