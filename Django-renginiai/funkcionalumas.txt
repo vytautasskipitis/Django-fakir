@@ -1,1 +1,3 @@
-kolkas sukurta tik registracija ir navbar, templates prisijungusiem ir atsijungusiem.
+home page rasite navbar ir templates.
+kadangi registracijos nera tai naudokite superuser: vyt / vyt
+prisijunge atsidursite kitame navbar kur galesite uzsiregistruot 
